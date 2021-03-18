@@ -1,0 +1,40 @@
+
+.block{
+    background-size: 100%;
+    margin: 8px auto;
+    border: 1px solid grey;
+    width: 400px;
+    height: 250px;
+    background-image: linear-gradient(180deg,transparent,transparent,
+    rgb(56, 93, 145)),url("../img/product-3.png");
+    color: white;
+}
+.block1{
+    background-size: 100%;
+    margin: 8px auto;
+    border: 1px solid grey;
+    width: 400px;
+    height: 250px;
+    background-image: linear-gradient(180deg,transparent,transparent,
+    rgb(56, 93, 145)),url("../img/product-4.png");
+    color: white;
+}
+.block2{
+    background-size: 100%;
+    margin: 8px auto;
+    border: 1px solid grey;
+    width: 400px;
+    height: 250px;
+    background-image: linear-gradient(180deg,transparent,transparent,
+    rgb(56, 93, 145)),url("../img/product-5.png");
+    color: white;
+}
+.narx{
+    transform: translate(315px,170px)
+    
+}
+.yozuv{
+    transform: translate(140px,180px);
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
